@@ -1,2 +1,2 @@
-# RockPaperScissorsByElitsa
-This is a simple  game "Rock Paper Scissors"
+# RockPaperScissors
+This is a simple  game "Rock Paper Scissors".
